@@ -1,8 +1,12 @@
 # ElevateLabs-Task2
 Analyze a Phishing Email Sample.
+---
 Author
+
 Sakshi Dhananjay Kamble
+
 M.Sc. Cybersecurity, University of Mumbai  
+
 ElevateLabs
 ---
 Objective
